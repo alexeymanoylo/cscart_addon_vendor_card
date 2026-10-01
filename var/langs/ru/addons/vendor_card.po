@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vendor_card\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+
+msgctxt "Addons::name::vendor_card"
+msgid "Vendor card"
+msgstr "Карточка продавца"
+
+msgctxt "Addons::description::vendor_card"
+msgid "Vendor card block with modal and popup modes."
+msgstr "Блок карточки продавца с режимами модалка и попап."
+
+msgctxt "Languages::vendor_card.block"
+msgid "Vendor card"
+msgstr "Карточка продавца"
+
+msgctxt "Languages::block_vendor_card"
+msgid "Vendor card"
+msgstr "Карточка продавца"
+
+msgctxt "Languages::block_vendor_card_description"
+msgid "Vendor card"
+msgstr "Блок карточки продавца"
+
+msgctxt "Languages::vendor_card.panel_mode"
+msgid "Panel mode"
+msgstr "Вид панели"
+
+msgctxt "Languages::panel_mode"
+msgid "panel_mode"
+msgstr "Вид панели"
+
+msgctxt "Languages::_panel_mode"
+msgid "_panel_mode"
+msgstr "Вид панели"
+
+msgctxt "Languages::block_vendor_card.panel_mode"
+msgid "panel_mode"
+msgstr "Вид панели"
+
+msgctxt "Languages::vendor_card.panel_mode.popup"
+msgid "Popup"
+msgstr "Попап"
+
+msgctxt "Languages::vendor_card.panel_mode.popup"
+msgid "popup"
+msgstr "Попап"
+
+msgctxt "Languages::vendor_card.panel_mode.modal"
+msgid "Modal"
+msgstr "Модальное окно"
+
+msgctxt "Languages::vendor_card.panel_mode.modal"
+msgid "modal"
+msgstr "Модальное окно"
+
+msgctxt "Languages::vendor_card.entry"
+msgid "entry"
+msgstr "Карточка продавца"
+
+msgctxt "Languages::block_vendor_card.entry"
+msgid "entry"
+msgstr "Карточка продавца"
+
+msgctxt "Languages::vendor_card._block_vendor_card"
+msgid "_block_vendor_card"
+msgstr "Карточка продавца"

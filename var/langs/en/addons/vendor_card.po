@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vendor_card\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "Addons::name::vendor_card"
+msgid "Vendor card"
+msgstr "Vendor card"
+
+msgctxt "Addons::description::vendor_card"
+msgid "Vendor card block with modal and popup modes."
+msgstr "Vendor card block with modal and popup modes."
+
+msgctxt "Languages::vendor_card.block"
+msgid "Vendor card"
+msgstr "Vendor card"
+
+msgctxt "Languages::block_vendor_card"
+msgid "Vendor card"
+msgstr "Vendor card"
+
+msgctxt "Languages::block_vendor_card_description"
+msgid "Vendor card"
+msgstr "Vendor card block"
+
+msgctxt "Languages::vendor_card.panel_mode"
+msgid "Panel mode"
+msgstr "Panel mode"
+
+msgctxt "Languages::panel_mode"
+msgid "panel_mode"
+msgstr "Panel mode"
+
+msgctxt "Languages::_panel_mode"
+msgid "_panel_mode"
+msgstr "Panel mode"
+
+msgctxt "Languages::block_vendor_card.panel_mode"
+msgid "panel_mode"
+msgstr "Panel mode"
+
+msgctxt "Languages::vendor_card.panel_mode.popup"
+msgid "popup"
+msgstr "Popup"
+
+msgctxt "Languages::vendor_card.panel_mode.popup"
+msgid "Popup"
+msgstr "Popup"
+
+msgctxt "Languages::vendor_card.panel_mode.modal"
+msgid "modal"
+msgstr "Modal"
+
+msgctxt "Languages::vendor_card.panel_mode.modal"
+msgid "Modal"
+msgstr "Modal"
+
+msgctxt "Languages::vendor_card.entry"
+msgid "entry"
+msgstr "Vendor Card"
+
+msgctxt "Languages::block_vendor_card.entry"
+msgid "entry"
+msgstr "Vendor Card"
+
+msgctxt "Languages::vendor_card._block_vendor_card"
+msgid "_block_vendor_card"
+msgstr "Vendor card"
