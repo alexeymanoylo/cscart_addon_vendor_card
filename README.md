@@ -10,7 +10,7 @@
 
 ## Где добавить блок
 
-**Website → Themes → Layouts → Main → Add block → Vendor Card → Save.**
+**Website → Themes → Layouts → Main → Homepage → Add block → Vendor Card → Save.**
 
 ## Как переключить modal / popup
 
