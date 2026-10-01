@@ -50,7 +50,7 @@ function fn_vendor_card_get_vendors($limit = 1, $offset = null)
     );
     foreach ($vendors as &$vendor) {
         $vendor['initials'] = fn_vendor_card_get_initials($vendor['company']);
-        $vendor['is_online'] = false;
+        $vendor['is_online'] = true;
         $vendor['positive'] = '98';
         $vendor['rating'] = '4.9';
         $vendor['rating_count'] = '320';
