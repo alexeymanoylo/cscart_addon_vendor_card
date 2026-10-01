@@ -225,7 +225,7 @@
       flex-direction: column;
     }
   }
-  
+
   @media (max-width: 680px) {
     flex-direction: column;
 
@@ -244,7 +244,7 @@
       line-height: 36px;
     }
   }
-  
+
   @media (max-width: 500px) {
     &__name {
       font-size: 24px;
@@ -323,7 +323,8 @@
   top: calc(100% + 1px);
   left: 0;
   z-index: 111;
-  width: min(360px, 90vw);
+  max-width: 360px;
+  width: 90%;
   background: var(--color-cover-bg);
   border: 2px solid var(--color-positive);
   border-radius: 12px;
@@ -363,6 +364,7 @@ div.ui-dialog.vendor-modal-dialog {
   border: 2px solid var(--color-positive);
   border-radius: 12px;
   padding: 16px;
+  box-sizing: border-box;
 
   div.ui-dialog-titlebar {
     padding: 0;

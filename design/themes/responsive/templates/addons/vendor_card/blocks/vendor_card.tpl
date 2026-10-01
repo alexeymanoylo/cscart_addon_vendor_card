@@ -9,7 +9,7 @@
           <span class="vendor-card__initials">{$vendor.initials}</span>
       {/if}
     </span>
-        <span class="vendor-card__status{if !$vendor.is_online} vendor-card__status--offline{/if}"></span>
+        <span class="vendor-card__status{if !$vendor.is_online} vendor-card__status--offline{/if}" title="{if $vendor.is_online}online{else}offline{/if}" aria-label="{if $vendor.is_online}Vendor is online{else}Vendor is offline{/if}" role="status"></span>
     </div>
     <div class="vendor-card__content">
         <div class="vendor-card__main">
@@ -19,14 +19,17 @@
                     <div class="vendor-card__badges">
                         {if $vendor.is_pro}
                             <div class="vendor-card__badge vendor-card__badge--pro"><img
-                                    src="{$images_dir}/addons/vendor_card/pro.svg" class="vendor-card__badge-icon"
-                                    alt=""
-                                    width="14" height="14">Pro</div>
+                                        src="{$images_dir}/addons/vendor_card/pro.svg" class="vendor-card__badge-icon"
+                                        alt=""
+                                        width="14" height="14">Pro
+                            </div>
                         {/if}
                         {if $vendor.is_verified}
                             <div class="vendor-card__badge vendor-card__badge--verified"><img
-                                    src="{$images_dir}/addons/vendor_card/verified.svg" class="vendor-card__badge-icon"
-                                    alt="" width="14" height="14">Verified (KYC)</div>
+                                        src="{$images_dir}/addons/vendor_card/verified.svg"
+                                        class="vendor-card__badge-icon"
+                                        alt="" width="14" height="14">Verified (KYC)
+                            </div>
                         {/if}
                     </div>
                 </div>
