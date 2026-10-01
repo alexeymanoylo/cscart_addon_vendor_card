@@ -5,7 +5,7 @@
 ## Как установить аддон
 
 1. Скопировать папки `app`, `design`, `js`, `var` из архива в корень CS-Cart.
-2. **Add-ons → Manage add-ons → vendor_card → Install**.
+2. **Add-ons → Downloaded add-ons → Vendor Card → Install**.
 3. Очистить кэш: `admin.php?cc&ctpl` или **Website → Themes → Clear cache**.
 
 ## Где добавить блок
